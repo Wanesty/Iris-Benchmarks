@@ -1,7 +1,7 @@
 # Resuwults
 
 <details> <!-- iris-mc1.19.4-pre1-1.6.0-beta-snap.4-f6c98760 Fabric 0.14.14 -->
-  <summary><ins>iris-mc1.19.4-pre1-1.6.0-beta-snap.4-f6c98760 Fabric 0.14.14</ins></summary>
+  <summary><ins>iris-mc1.19.4-pre1-1.6.0-beta-snap.4-f6c98760</ins> Fabric 0.14.14</summary>
   
   Average of each of 5 [passes](./logging/iris-mc1.19.4-pre1-1.6.0-beta-snap.4-f6c98760-fabric-0.14.14/) :
   |0.1% Min FPS|1% Min FPS|97% Percentile FPS|Average FPS|GPU Load|CPU Load|
@@ -23,7 +23,7 @@
 ---
 
 <details> <!--- iris-mc1.19.3-1.6.0-beta.2 sodium-0.4.10beta4 Fabric 0.14.14 -->
-  <summary><ins>iris-mc1.19.3-1.6.0-beta.2 sodium-0.4.10beta4 Fabric 0.14.14</ins></summary>
+  <summary><ins>iris-mc1.19.3-1.6.0-beta.2</ins> sodium-0.4.10beta4 Fabric 0.14.14</summary>
 
   Average of each of 5 [passes](./logging/iris-mc1.19.3-1.6.0-beta.2-fabric-0.14.14/) :
   |0.1% Min FPS|1% Min FPS|97% Percentile FPS|Average FPS|GPU Load|CPU Load|
@@ -45,7 +45,7 @@
 ---
 
 <details> <!--- iris-mc1.19.3-1.5.3-e527ede2-dirty Fabric 0.14.14 -->
-  <summary><ins>iris-mc1.19.3-1.5.3-e527ede2-dirty Fabric 0.14.14</ins></summary>
+  <summary><ins>iris-mc1.19.3-1.5.3-e527ede2-dirty</ins> Fabric 0.14.14</summary>
 
   Average of each of 5 [passes](./logging/iris-mc1.19.3-1.5.3-e527ede2-dirty-fabric-0.14.14/) :
   |0.1% Min FPS|1% Min FPS|97% Percentile FPS|Average FPS|GPU Load|CPU Load|
@@ -68,7 +68,7 @@
 ---
 
 <details> <!-- iris-mc1.19.2-1.5.2 sodium-0.4.4+build.18 Fabric 0.14.14 -->
-  <summary><ins>iris-mc1.19.2-1.5.2 sodium-0.4.4+build.18 Fabric 0.14.14</ins></summary>
+  <summary><ins>iris-mc1.19.2-1.5.2</ins> sodium-0.4.4+build.18 Fabric 0.14.14</summary>
 
   Average of each of 5 [passes](./logging/iris-mc1.19.2-1.5.2-fabric-0.14.14/)
   |0.1% Min FPS|1% Min FPS|97% Percentile FPS|Average FPS|GPU Load|CPU Load|

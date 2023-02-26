@@ -34,7 +34,7 @@
   |30.2        |48.0      |94.3              |76.4       |98.4    |11.7    |
   |21.3        |36.1      |100.9             |76.7       |98.6    |9.1     |
 
-  Average of all 6 passes :
+  Average of all 5 passes :
   
   |0.1% Min FPS|1% Min FPS|97% Percentile FPS|Average FPS|GPU Load|CPU Load|
   |------------|----------|------------------|-----------|--------|--------|
@@ -47,7 +47,7 @@
 <details> <!--- iris-mc1.19.3-1.5.3-e527ede2-dirty Fabric 0.14.14 -->
   <summary><ins>iris-mc1.19.3-1.5.3-e527ede2-dirty Fabric 0.14.14</ins></summary>
 
-  Average of each of 6 [passes](./logging/iris-mc1.19.3-1.5.3-e527ede2-dirty-fabric-0.14.14/) :
+  Average of each of 5 [passes](./logging/iris-mc1.19.3-1.5.3-e527ede2-dirty-fabric-0.14.14/) :
   |0.1% Min FPS|1% Min FPS|97% Percentile FPS|Average FPS|GPU Load|CPU Load|
   |------------|----------|------------------|-----------|--------|--------|
   |23.9        |30.9      |102.6             |75.8       |98.2    |13.4    |

@@ -1,4 +1,4 @@
-os,cpu,gpu,ram,kernel,driver,cpuscheduler,  ,  ,  ,  , ,  ,  ,  ,  , 
+os,cpu,gpu,ram,kernel,driver,cpuscheduler,  ,  ,  ,  ,
 Arch Linux,AMD Ryzen 7 5800X 8-Core Processor,Radeon RX 6700/6700 XT/6750 XT / 6800M/6850M XT,16300712,6.1.12-arch1-1,4.6 Mesa 22.3.6,schedutil,  ,  ,  ,  , 
 fps,frametime,cpu_load,gpu_load,cpu_temp,gpu_temp,gpu_core_clock,gpu_mem_clock,gpu_vram_used,gpu_power,ram_used,elapsed
 77.2439,12946,8.46626,95,71,66,2269,1000,2.84514,134,6.73193,373830268

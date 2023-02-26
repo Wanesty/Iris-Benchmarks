@@ -21,7 +21,7 @@ Other stuff running
 + [CoreCtrl](https://gitlab.com/corectrl/corectrl)
 + Discord
 + [MangoHud](https://github.com/flightlessmango/MangoHud)
-+ maybe sublime-text
++ <sub>maybe sublime-text, Konsole and Dolphin(fm) (should only impact ram usage not GPU performances)</sub>
 </details>
 
 <details>
@@ -49,4 +49,4 @@ Other stuff running
 
 ## Where results ?
 
- [there](./results.md) or in [logging](./logging/)
+ [there](#results.md) or in [logging](#logging)

@@ -12,7 +12,7 @@
   |45.3        |45.9      |89.2              |72.4       |98.3    |12.7    |
   |48.8        |54.1      |91.7              |71.7       |98.5    |10.7    |
   
-  Average of all 6 passes :
+  Average of all 5 passes :
   
   |0.1% Min FPS|1% Min FPS|97% Percentile FPS|Average FPS|GPU Load|CPU Load|
   |------------|----------|------------------|-----------|--------|--------|
@@ -56,7 +56,7 @@
   |28.7        |36.0      |99.1              |75.0       |98.5    |12.8    |
   |27.1        |41.1      |102.3             |75.1       |98.5    |11.3    |
   
-  Average of all 6 passes :
+  Average of all 5 passes :
   
   |0.1% Min FPS|1% Min FPS|97% Percentile FPS|Average FPS|GPU Load|CPU Load|
   |------------|----------|------------------|-----------|--------|--------|

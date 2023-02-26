@@ -3,7 +3,7 @@
 <details>
   <summary><ins>iris-mc1.19.4-pre1-1.6.0-beta-snap.4-f6c98760 Fabric 0.14.14</ins></summary>
   
-Average of each of 6 [passes](./logging/iris-mc1.19.4-pre1-1.6.0-beta-snap.4-f6c98760/) :
+Average of each of 6 [passes](./logging/iris-mc1.19.4-pre1-1.6.0-beta-snap.4-f6c98760-fabric-0.14.14/) :
 |0.1% Min FPS|1% Min FPS|97% Percentile FPS|Average FPS|GPU Load|CPU Load|
 |------------|----------|------------------|-----------|--------|--------|
 |26.7        |32.5      |87.5              |70.6       |98.3    |15.2    |
@@ -26,7 +26,7 @@ Average of all 6 passes :
 <details>
   <summary><ins>iris-mc1.19.3-1.5.3-e527ede2-dirty Fabric 0.14.14</ins></summary>
 
-Average of each of 6 [passes](./logging/iris-mc1.19.3-1.5.3-e527ede2-dirty/) :
+Average of each of 6 [passes](./logging/iris-mc1.19.3-1.5.3-e527ede2-dirty-fabric-0.14.14/) :
 |0.1% Min FPS|1% Min FPS|97% Percentile FPS|Average FPS|GPU Load|CPU Load|
 |------------|----------|------------------|-----------|--------|--------|
 |14.4        |25.7      |102.9             |76.4       |97.9    |16.7    |
@@ -40,11 +40,33 @@ Average of all 6 passes :
 
 |0.1% Min FPS|1% Min FPS|97% Percentile FPS|Average FPS|GPU Load|CPU Load|
 |------------|----------|------------------|-----------|--------|--------|
-|23.68       |34.61     |104.9             |75.8      |98.36    |12.38   |
+|23.68       |34.61     |104.9             |75.8       |98.36   |12.38   |
 
 </details>
 
 
+---
+
+<details>
+  <summary><ins>iris-mc1.19.2-1.5.2 sodium-0.4.4+build.18 Fabric 0.14.14</ins></summary>
+
+Average of each of 5 [passes](./logging/iris-mc1.19.2-1.5.2-fabric-0.14.14/)
+|0.1% Min FPS|1% Min FPS|97% Percentile FPS|Average FPS|GPU Load|CPU Load|
+|------------|----------|------------------|-----------|--------|--------|
+|21.8        |38.8      |93.8              |75.1       |98.5    |10.5    |
+|32.5        |43.8      |95.0              |74.1       |98.6    |8.8     |
+|27.5        |42.9      |93.7              |77.8       |98.6    |10.2    |
+|22.8        |36.9      |103.6             |77.3       |98.6    |10.6    |
+|31.9        |41.7      |90.0              |72.8       |98.6    |9.3     |
+
+
+Average of all 5 passes :
+
+|0.1% Min FPS|1% Min FPS|97% Percentile FPS|Average FPS|GPU Load|CPU Load|
+|------------|----------|------------------|-----------|--------|--------|
+|27.3        |40.82     |95.22             |75.42      |98.58   |9.88    |
+
+</details>
 ---
 
 <sub>I am using [this](https://www.convertcsv.com/csv-to-markdown.htm) to display results in markdown and [this](https://www.calculatorsoup.com/calculators/statistics/average.php) to average passes</sub>

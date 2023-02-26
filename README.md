@@ -32,6 +32,7 @@ Other stuff running
 + FOX = 95
 + Render Resolution = 2560x1381, Windowed
 + Max Framerate = 260 (Unlimited)
++ Vsync = Off
 + Shaderpack = ComplementaryShaders_v4.6 with [config](./ComplementaryShaders_v4.6-LENS.txt)
 </details>
 

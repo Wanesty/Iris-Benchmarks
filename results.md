@@ -1,7 +1,7 @@
 # Resuwults
 
 <details>
-  <summary><ins>iris-mc1.19.4-pre1-1.6.0-beta-snap.4-f6c98760</ins></summary>
+  <summary><ins>iris-mc1.19.4-pre1-1.6.0-beta-snap.4-f6c98760 Fabric 0.14.14</ins></summary>
   
 Average of each of 6 [passes](./logging/iris-mc1.19.4-pre1-1.6.0-beta-snap.4-f6c98760/) :
 |0.1% Min FPS|1% Min FPS|97% Percentile FPS|Average FPS|GPU Load|CPU Load|
@@ -24,7 +24,7 @@ Average of all 6 passes :
 ---
 
 <details>
-  <summary><ins>iris-mc1.19.3-1.5.3-e527ede2-dirty</ins></summary>
+  <summary><ins>iris-mc1.19.3-1.5.3-e527ede2-dirty Fabric 0.14.14</ins></summary>
 
 Average of each of 6 [passes](./logging/iris-mc1.19.3-1.5.3-e527ede2-dirty/) :
 |0.1% Min FPS|1% Min FPS|97% Percentile FPS|Average FPS|GPU Load|CPU Load|

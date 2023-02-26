@@ -32,7 +32,7 @@ Other stuff running
 + FOX = 95
 + Render Resolution = 2560x1381, Windowed
 + Max Framerate = 260 (Unlimited)
-+ Shaderpack = ComplementaryShaders_v4.6 with [config](#ComplementaryShaders_v4.6-LENS.txt)
++ Shaderpack = ComplementaryShaders_v4.6 with [config](./ComplementaryShaders_v4.6-LENS.txt)
 </details>
 
 <details>
@@ -49,4 +49,4 @@ Other stuff running
 
 ## Where results ?
 
- [there](#results.md) or in [logging](#logging)
+ [there](./results.md) or in [logging](./logging/)

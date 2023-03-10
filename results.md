@@ -1,5 +1,28 @@
 # Resuwults
 
+<details> <!-- iris-mc1.19.4-rc2-1.5.2 Fabric 0.14.17 -->
+  <summary><ins>iris-mc1.19.4-rc2-1.5.2</ins> Fabric<sup>0.14.17</sup></summary>
+  
+  Average of each of 5 [passes](./logging/iris-mc1.19.4-rc2-1.5.2-sodium-fabric-mc1.19.4-rc1-0.4.10rev.ced3b01/) :
+  |0.1% Min FPS|1% Min FPS|97% Percentile FPS|Average FPS|GPU Load|CPU Load|
+  |------------|----------|------------------|-----------|--------|--------|
+  |18.8        |38.3      |95.3              |76.4       |98.5    |11.0    |
+  |24.1        |44.2      |98.1              |76.5       |98.8    |8.80    |
+  |20.8        |40.2      |91.2              |73.8       |98.6    |10.7    |
+  |15.7        |36.0      |90.3              |72.9       |98.7    |7.80    |
+  |26.4        |34.2      |95.9              |74.4       |98.7    |9.2     |
+
+  
+  Average of all 5 passes :
+  
+  |0.1% Min FPS|1% Min FPS|97% Percentile FPS|Average FPS|GPU Load|CPU Load|
+  |------------|----------|------------------|-----------|--------|--------|
+  |21.16       |38.58     |94.16             |74.8       |98.66   |9.5   |
+
+</details>
+
+---
+
 <details> <!-- iris-mc1.19.4-pre1-1.6.0-beta-snap.4-f6c98760 Fabric 0.14.14 -->
   <summary><ins>iris-mc1.19.4-pre1-1.6.0-beta-snap.4-f6c98760</ins> Fabric<sup>0.14.14</sup></summary>
   

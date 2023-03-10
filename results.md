@@ -3,7 +3,7 @@
 <details> <!-- iris-mc1.19.4-rc2-1.5.2 Fabric 0.14.17 -->
   <summary><ins>iris-mc1.19.4-rc2-1.5.2</ins> Fabric<sup>0.14.17</sup></summary>
   
-  Average of each of 5 [passes](./logging/iris-mc1.19.4-rc2-1.5.2-sodium-fabric-mc1.19.4-rc1-0.4.10rev.ced3b01/) :
+  Average of each of 5 [passes](./logging/iris-mc1.19.4-rc2-1.5.2-fabric-0.14.17/) :
   |0.1% Min FPS|1% Min FPS|97% Percentile FPS|Average FPS|GPU Load|CPU Load|
   |------------|----------|------------------|-----------|--------|--------|
   |18.8        |38.3      |95.3              |76.4       |98.5    |11.0    |
